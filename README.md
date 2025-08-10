@@ -55,7 +55,18 @@ It can serve as a template for real estate agencies, property portfolios, or lis
 ## 📅 Timeline
 
 - **Start Date & Time:** 10/08/2025 — 10:34  
-- **Completion Date & Time:** 10/08/2025 — 12:33  
+- **Completion Date & Time:** 10/08/2025 — 12:33
+
+---
+
+## Preview
+
+<img width="1280" height="720" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/23ee4a0f-fae1-4d40-a4fe-0558cdeabb9a" />
+<img width="1280" height="720" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/b425a1a4-f1ab-41d1-991c-1b847cb409f4" />
+<img width="1280" height="720" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/51d8f82e-c0f7-45ca-8d2c-ee3dea9ed144" />
+<img width="1280" height="720" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/a0fda665-0713-474e-8277-511a089474cd" />
+<img width="1280" height="720" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/6dd3f7ac-3da9-495e-845b-9d82bc6edb7d" />
+
 
 ---
 
